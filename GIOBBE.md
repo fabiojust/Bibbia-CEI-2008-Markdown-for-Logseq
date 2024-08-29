@@ -1634,7 +1634,7 @@ tanto da starmene zitto, senza uscire di casa.
 e i suoi solchi piangono a una sola voce,  
 ^{39} se ho mangiato il suo frutto senza pagare
 e ho fatto sospirare i suoi coltivatori,  
-**40a**in luogo di frumento mi crescano spini  
+^{40a}in luogo di frumento mi crescano spini  
 ed erbaccia al posto dell’orzo.  
 ^{35} Oh, avessi uno che mi ascoltasse!
 Ecco qui la mia firma! L’Onnipotente mi risponda!  
@@ -1643,7 +1643,7 @@ Il documento scritto dal mio avversario
 e cingerlo come mio diadema!  
 ^{37} Gli renderò conto di tutti i miei passi,
 mi presenterei a lui come un principe».  
-**40b**Sono finite le parole di Giobbe.
+^{40b}Sono finite le parole di Giobbe.
 
 - # GIOBBE - 32
 ----------------------------------
